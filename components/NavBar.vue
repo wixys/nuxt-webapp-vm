@@ -2,8 +2,8 @@
     <div class="nav">
         <nuxt-link to="/" class="brand">Nuxt Web App VM</nuxt-link> 
         <nav>
-            <nuxt-link to="/">List</nuxt-link> |
-            <nuxt-link to="/create">Create</nuxt-link>
+            <nuxt-link to="/event">List</nuxt-link> |
+            <nuxt-link to="/event/create">Create</nuxt-link>
         </nav>
     </div>
 </template>
