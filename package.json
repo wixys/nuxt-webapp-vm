@@ -11,6 +11,9 @@
     "generate": "nuxt generate",
     "heroku-postbuild": "nmp run build"
   },
+  "engines": {
+    "node": "10.15.3"
+  },
   "dependencies": {
     "cross-env": "^5.2.0",
     "nuxt": "^2.4.0",
